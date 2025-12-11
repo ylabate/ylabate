@@ -5,7 +5,6 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%">
 
   <br>
-  <br>
 
 I focus on **Systems Programming** and **Open Source Foundations**.
 <br>
@@ -37,12 +36,7 @@ I focus on **Systems Programming** and **Open Source Foundations**.
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ylabate&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&hide=issues,contribs&custom_title=Overall%20Activity&line_height=25" height="170" alt="GitHub Stats" />
 </div>
-
-</div>
-
----
-
-<div align="center">
+<br>
 
 ### Contact me
 
