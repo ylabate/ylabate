@@ -19,7 +19,6 @@ I focus on **Systems Programming** and **Open Source Foundations**.
 ⚡ <i>I use Arch by the way</i>
 
   <br>
-  <br>
 
 ### Tech Stack
 
@@ -30,14 +29,26 @@ I focus on **Systems Programming** and **Open Source Foundations**.
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
   <br>
-  <br>
 
 ### Statistics
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ylabate&theme=react-dark&bg_color=00000000&hide_border=true&area=true&color=1793D1" width="100%" alt="Activity Graph" />
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ylabate&theme=react-dark&bg_color=00000000&hide_border=true&area=true&color=1793D1" width="100%" alt="Activity Graph" />
 
-<br>
+  <br>
 
-![Top Langs](https://github-readme-stats-2gcqwsdm3-ylabates-projects.vercel.app/api/top-langs/?username=ylabate&layout=compact&theme=dark&hide_border=true&hide=html,css&bg_color=00000000&langs_count=6)
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ylabate&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&hide=issues,contribs&custom_title=Overall%20Activity&line_height=25" height="170" alt="GitHub Stats" />
+</div>
 
+</div>
+
+---
+
+<div align="center">
+
+### Contact me
+
+[![GitHub](https://img.shields.io/badge/GitHub-ylabate-181717?style=for-the-badge&logo=github)](https://github.com/ylabate)
+[![Discord](https://img.shields.io/badge/Discord-bluecxt-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/bluecxt)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:12196@holbertonstudents.com)
 </div>
