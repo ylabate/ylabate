@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=3FD4F7&center=true&vCenter=true&width=800&height=100&lines=echo+%22Hello+World%22;Language%3A+C+%26+Bash;Target%3A+Cybersecurity;i+use+arch%2C+btw" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=3FD4F7&center=true&vCenter=true&width=800&height=100&lines=echo+Hello+World;$LANGUAGE+=+C+%26+Bash;$TARGET+=+Cybersecurity;echo+i+use+arch%2C+btw" alt="Typing SVG" />
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%">
 
 <br>
 
-I focus on **Systems Programming** and **Open Source Foundations**.
+I am a **Holberton School** student, learning **C** and soon **python** through project-based learning.
 <br>
 <br>
 🔭 Developing efficient and secure software in **C**
