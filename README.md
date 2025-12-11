@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=3FD4F7&center=true&vCenter=true&width=800&height=100&lines=Hi%2C+I'm+a+Holberton+student!;System+Architecture;Security+%7C+Linux" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=3FD4F7&center=true&vCenter=true&width=800&height=100&lines=echo+%22Hello+World%22;Language%3A+C+%26+Bash;Target%3A+Cybersecurity;i+use+arch%2C+btw" alt="Typing SVG" />
   
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%">
 
@@ -15,8 +15,6 @@ I focus on **Systems Programming** and **Open Source Foundations**.
 🛡️ Pivoting my skills towards **Cybersecurity** and **System Hardening**
 <br>
 🐧 Automating everything with **Bash** and **Linux**
-<br>
-⚡ <i>I use Arch by the way</i>
 
   <br>
 
@@ -51,4 +49,5 @@ I focus on **Systems Programming** and **Open Source Foundations**.
 [![GitHub](https://img.shields.io/badge/GitHub-ylabate-181717?style=for-the-badge&logo=github)](https://github.com/ylabate)
 [![Discord](https://img.shields.io/badge/Discord-bluecxt-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/bluecxt)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:12196@holbertonstudents.com)
+
 </div>
