@@ -22,10 +22,15 @@ I am a **Holberton School** student, learning **C** and soon **python** through 
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-1793D1?style=for-the-badge&logo=linux&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
 ### Statistics
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ylabate&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&hide=issues,contribs&custom_title=Overall%20Activity&line_height=25" height="170" alt="GitHub Stats" />
+
+<br>
+
+![Snake animation](https://raw.githubusercontent.com/ylabate/ylabate/output/github-contribution-grid-snake-dark.svg)
 
 <br>
 
