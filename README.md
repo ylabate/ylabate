@@ -34,9 +34,6 @@ I am a **Holberton School** student, learning **C** and soon **python** through 
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ylabate&theme=react-dark&bg_color=00000000&hide_border=true&area=true&color=1793D1" width="100%" alt="Activity Graph" />
-
-<br>
 
 ### Contact me
 
