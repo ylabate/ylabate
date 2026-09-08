@@ -30,10 +30,6 @@ I am a **Holberton School** student, currently learning **Python** and **Kotlin*
 
 ### Statistics
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ylabate&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&hide=issues,contribs&custom_title=Overall%20Activity&line_height=25" height="170" alt="GitHub Stats" />
-
-<br>
-
 ![Snake animation](https://raw.githubusercontent.com/ylabate/ylabate/output/github-contribution-grid-snake-dark.svg)
 
 <br>
